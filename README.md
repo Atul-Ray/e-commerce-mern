@@ -28,6 +28,7 @@ Media	    Cloudinary
 📁 Folder Structure
 
 
+```
 e-commerce/
 ├── backend/
 │   ├── controllers/
@@ -42,7 +43,7 @@ e-commerce/
 ├── .gitignore
 ├── README.md
 
-
+```
 
 🧪 Future Enhancements
 💳 Payment gateway integration
